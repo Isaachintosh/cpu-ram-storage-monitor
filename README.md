@@ -1,0 +1,2 @@
+# cpu-ram-storage-monitor
+Hello GitHub! This project aims to develop a widget to monitor the hardware performance of android smartphones. To do this, it was necessary to use the KWGT application to create your test model. Soon this version is exoerimental, for more information I will be posting video-tutorials on youtube showing how the development was and describing the use of resources in the "read me" file that I will be incorporating in the future. Thank you for your attention and I wish you good studies!
